@@ -1,10 +1,10 @@
-# Задание 6 по практикуму на ЭВМ
+# Task 6
 
-func.asm - ассемблерная реализация нужных функций
+func.asm - assembler realization of the needed functions
 
-task6.c - реализация численного вычисления корней уравнений и определенных интегралов на С
+task6.c - implementation of numerical calculation of equation roots and definite integrals in C
 
-task_6.pdf - условие задания
+task_6.pdf - task condition
 
-myreport6.pdf - отчет по заданию
+myreport6.pdf - report on the task
 
